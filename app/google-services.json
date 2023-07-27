@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720087288436",
+    "project_id": "id-pass-smart-scanner",
+    "storage_bucket": "id-pass-smart-scanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720087288436:android:6c3c7edf4c213d346a1f21",
+        "android_client_info": {
+          "package_name": "org.newlogic.smartscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720087288436-1hqsvl4bfmu147eaju91bjp7fpt88v8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMnP_Vkmv2Z9kDZYwZdhi-vSxXcTK4WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720087288436-1hqsvl4bfmu147eaju91bjp7fpt88v8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
