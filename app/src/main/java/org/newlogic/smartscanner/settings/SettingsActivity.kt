@@ -106,8 +106,10 @@ class SettingsActivity : AppCompatActivity() {
 
         // Display version
 
-        val version = "1.0.2"
+        val version = "0.5.0"
         val versionLabel = if (BuildConfig.DEBUG) version else version.split("-").first()
+        println("version: $version")
+        println("versionLabel: $versionLabel")
         binding.versionText.text = getString(R.string.label_version, versionLabel)
 
         // Go Back
